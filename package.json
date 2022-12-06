@@ -1,0 +1,8 @@
+{
+  "name": "grapql-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tunguyn/graphql-node-express-mongo.git",
+  "author": "natu",
+  "license": "MIT"
+}
